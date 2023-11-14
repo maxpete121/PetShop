@@ -1,0 +1,94 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    display: flex;
+    background-color: #061130;
+    width: 100%;
+    color: white;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+}
+
+.HeaderNav {
+    justify-content: space-evenly;
+    display: flex;
+    color: white;
+    
+}
+
+.HeaderNav2 {
+    
+    margin-right: 15px;
+}
+
+.logo {
+    margin-top: 15px;
+    margin-left: 18px;
+    
+    
+}
+
+button {
+    margin-left: 13px;
+    margin-right: 13px;
+   padding: 15px;
+   border-radius: 20px;
+   border: none;
+   background-color: #1C4Bc4;
+   color: white;
+}
+
+main {
+    height: 700px;
+    display: flex;
+    background-color: #061130;
+}
+
+.Service {
+    padding-top: 140px;
+    padding-left: 240px;
+    padding-right: 150px;
+    color: #FAFD61;
+}
+
+.MainText {
+    padding-right: 180px;
+    padding-left: 240px;
+    color: white;
+}
+
+.sectionOne {
+    padding-top: 20px;
+    width: 50%;
+}
+
+.sectionTwo {
+    padding-top: 20px;
+    display: flex;
+    
+    
+}
+
+#WorldImage {
+    max-width: 700px;
+    max-height: 500px;
+    min-height: 100px;
+    min-width: 100px;
+}
+
+.main2 {
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    color: blue;
+    text-decoration: underline;
+}
+
+footer {
+    padding: 50px;
+    text-align: center;
+    background-color: #F4F6F8;
+}
+
